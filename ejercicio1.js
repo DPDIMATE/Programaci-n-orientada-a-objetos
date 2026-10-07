@@ -12,3 +12,4 @@ const computadora3 = new computador("Lenovo", "Intel core i9", "32GB", 5200000);
 console.log(computadora1);
 console.log(computadora2);
 console.log(computadora3);
+/// la ventaja es poder crear varios computadores sin repetir la estructura 
