@@ -19,4 +19,5 @@ console.log(estudiante1.MostrarResultado());
 console.log(estudiante2.MostrarResultado());
 console.log(estudiante3.MostrarResultado());
 console.log(estudiante4.MostrarResultado());
+///que cada estudiante puede conocer si aprobo o no 
 
